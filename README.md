@@ -1,10 +1,17 @@
-# Human Activities & Gestures Recognition using Channel State Information (CSI) of IEEE-802.11n Devices
-This is a data-set for Human Activities & Gestures Recognition (HAGR) using the Channel State information (CSI) of IEEE 802.11n devices. Our data-set will be helpful specifically for two types of researches. 
+# Human Activities, Gestures and Fall detection using Channel State Information (CSI) of IEEE-802.11n Devices
+This repository is to make the dataset collected for Human activities using the Channel State information (CSI) of IEEE 802.11n devices. 
+As of this time, we are waiting for our papers to be published. 
 
-Why upload this dataset? Because there has been a lot of research work in this area very recently, and it is very difficult to compare existing work as experimental environments differ. So by creating a unique dataset, now we can compare existing works + researchers don't need to spend days collecting the data!
+(i) Our first paper has been published using preliminary results:
+WiHACS: Leveraging WiFi for human activity classification using OFDM subcarriers' correlation
+https://ieeexplore.ieee.org/document/8308660
 
-However, this dataset is aimed for two types of researches:
+(ii) And my master's thesis has also been published recently:
+Using Wi-Fi channel state information (CSI) for human activity recognition and fall detection
+https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0365967
 
-(i) For researchers or engineers in HAGR who want to utilize the CSI to make further improvements in this area,
+We are currently waiting for our other papers to be published. Once published we will upload all our data, and also the source codes for our algorithms. (Sorry for the delay-- the uploading delay is due to some technical problems). I will update this repo from time to time.
 
-(ii) For machine learning/ deep learning engineers as we will upload specific sections of data from which no feature selection is needed, so you can try your algorithms and compare with our results!
+All the data will be presented in MAT or CSV files as time-series. The signal processing matlab files will also be uploaded. Including the python files for machine and deep learning algorithms used.
+
+Any questions, please feel free to reach me (the primary author) at tahmidzbr@ece.ubc.ca
