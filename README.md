@@ -14,4 +14,4 @@ We are currently waiting for our other papers to be published. Once published we
 
 All the data will be presented in MAT or CSV files as time-series. The signal processing matlab files will also be uploaded. Including the python files for machine and deep learning algorithms used.
 
-Any questions, please feel free to reach me (the primary author) at tahmidzbr@ece.ubc.ca
+Any questions about this repo or the papers/thesis, please email at tahmidzbr@ece.ubc.ca
