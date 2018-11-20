@@ -6,7 +6,7 @@ As of this time, we are waiting for our papers to be published.
 WiHACS: Leveraging WiFi for human activity classification using OFDM subcarriers' correlation
 https://ieeexplore.ieee.org/document/8308660
 
-(ii) And my master's thesis has also been published recently:
+(ii) The thesis outlining details can be found here:
 Using Wi-Fi channel state information (CSI) for human activity recognition and fall detection
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0365967
 
