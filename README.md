@@ -15,3 +15,7 @@ We are currently waiting for our other papers to be published. Once published we
 All the data will be presented in MAT or CSV files as time-series. The signal processing matlab files will also be uploaded. Including the python files for machine and deep learning algorithms used.
 
 Any questions about this repo or the papers/thesis, please email at tahmidzbr@ece.ubc.ca
+
+If you use the provided matlab codes and/or dataset in this rep, please consider citing the following reference:
+ 
+ @phdthesis{Chowdhury_2018, series={Electronic Theses and Dissertations (ETDs) 2008+}, title={Using Wi-Fi channel state information (CSI) for human activity recognition and fall detection}, url={https://open.library.ubc.ca/collections/ubctheses/24/items/1.0365967}, DOI={http://dx.doi.org/10.14288/1.0365967}, school={University of British Columbia}, author={Chowdhury, Tahmid Z.}, year={2018}, collection={Electronic Theses and Dissertations (ETDs) 2008+}}
