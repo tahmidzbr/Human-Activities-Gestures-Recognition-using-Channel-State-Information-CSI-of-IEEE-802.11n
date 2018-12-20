@@ -12,7 +12,7 @@ function [time_stamp] = extract_time_information(packet)
  % where packet is your CSI file
  csi_trace=read_bf_file(packet);   
  
- for a=1:1400          %where j is the total number packets in the CSI file structure
+ for a=1:j          %where j is the total number packets in the CSI file structure
      % extract the low 32 bits of the NIC's 1 MHz clock
      % The code doesn't account for wrapping about every 4300 seconds, or 72 minutes. 
      time(a)=csi_trace{a,1}.timestamp_low; 
