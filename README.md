@@ -21,3 +21,9 @@ If you use the provided matlab codes and/or dataset in this rep, please consider
  @phdthesis{Chowdhury_2018, series={Electronic Theses and Dissertations (ETDs) 2008+}, title={Using Wi-Fi channel state information (CSI) for human activity recognition and fall detection}, url={https://open.library.ubc.ca/collections/ubctheses/24/items/1.0365967}, DOI={http://dx.doi.org/10.14288/1.0365967}, school={University of British Columbia}, author={Chowdhury, Tahmid Z.}, year={2018}, collection={Electronic Theses and Dissertations (ETDs) 2008+}}
 
 **Cont**
+**01.12**   
+**DONE:**  
+1.  Finished debugging the network graph and training set up.
+
+**TODO:**  
+1.  Simplify the above functions and then debug the distillation losses in the training script.
