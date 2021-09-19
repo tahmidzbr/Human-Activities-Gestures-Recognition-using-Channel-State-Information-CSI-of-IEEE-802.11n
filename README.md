@@ -2,6 +2,9 @@
 This repository is to make the dataset collected for Human activities using the Channel State information (CSI) of IEEE 802.11n devices. 
 As of this time, we are waiting for our papers to be published. 
 
+UPDATE (2021-09-19):
+If you are interested in our dataset please contact me at tahmidzbr@ece.ubc.ca
+
 (i) Our first paper has been published using preliminary results:
 WiHACS: Leveraging WiFi for human activity classification using OFDM subcarriers' correlation
 https://ieeexplore.ieee.org/document/8308660
